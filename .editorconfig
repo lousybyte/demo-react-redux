@@ -1,0 +1,12 @@
+root = true
+
+[*]
+charset = utf-8
+indent_size = 4
+tab_width = 4
+indent_style = space
+insert_final_newline = false
+
+[*.{yml,json,css,html,ts,tsx,js}]
+indent_size = 2
+tab_width = 2
